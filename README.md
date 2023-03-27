@@ -6,8 +6,8 @@ The data contains 1000 annotated questions with their ```subject``` and ```aspec
 The format of the annotated data is as follows where the query comes with a json file including:
 ```
 - subject1
-- subject2  if exist 
-- person if exist
+- subject2  (if exists) 
+- person (if exists)
 ```
 
 For example:
