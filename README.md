@@ -1,5 +1,5 @@
 # [PREME: Preference-based Meeting Exploration through an Interactive Questionnaire](https://arxiv.org/pdf/2205.02370)
-[data.tsv](https://github.com/microsoft/preme/blob/main/data.tsv) contains the annotated data for PREME paper.
+This repo contains [the annotated data for PREME paper(https://github.com/microsoft/preme/blob/main/data.tsv).
 
 The data contains 1000 annotated questions with their ```subject``` and ```aspect``` or ```what was said about  the subjest``` by 2 annotators. 
 
@@ -19,7 +19,7 @@ Query<\t>data
  Which energy source is worth looking into?	{"Subject1":"energy source","What-Was-Said-About-the-Subject":"worth looking into"} # Annotator 2
 ```
  
- 
+For more information about the data, we encourage the read the [PREME paper](https://arxiv.org/abs/2205.02370) published in EACL2023. 
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
