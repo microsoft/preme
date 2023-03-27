@@ -9,14 +9,15 @@ The format of the annotated data is as follows where the query comes with a json
 - subject2  if exist 
 - person if exist
 ```
-For example:
 
-'''Query<\t>data
+For example:
+```
+Query<\t>data
  How does the new system work with HMRC?  {"Subject1":"new system","Subject2":"HMRC","What-Was-Said-About-the-Subject":"work with"} # Annotators 1 
  How does the new system work with HMRC?	{"Subject1":"HMRC","What-Was-Said-About-the-Subject":"new system work"} # Annotator 2
  Which energy source is worth looking into?	{"Subject1":"energy source","What-Was-Said-About-the-Subject":"worth looking into"} # Annotators 1 
  Which energy source is worth looking into?	{"Subject1":"energy source","What-Was-Said-About-the-Subject":"worth looking into"} # Annotator 2
- ```
+```
  
  
 ## Contributing
