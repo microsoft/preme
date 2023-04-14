@@ -46,12 +46,10 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 
 If you used PREME data in your work, please consider citing the following paper:
 ```
-@misc{arabzadeh2022preme,
+@inproceedings{arabzadeh2022preme,
       title={PREME: Preference-based Meeting Exploration through an Interactive Questionnaire}, 
       author={Negar Arabzadeh and Ali Ahmadvand and Julia Kiseleva and Yang Liu and Ahmed Hassan Awadallah and Ming Zhong and Milad Shokouhi},
-      year={2022},
-      eprint={2205.02370},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      year={2023},
+      booktitle={Findings of EACL 2023}
 }
 ```
